@@ -9,9 +9,9 @@
 Все ссылке с одинаковым значением атрибута rel попадут в одну галерею.
 
 Пример: создание двух независимых галерей в первой две картинки, во второй - три
-<a href="path_to_pic" class="fancyLesha" rel="group">ссылка на открытие картинки</a>
-<a href="path_to_pic" class="fancyLesha" rel="group">ссылка на открытие картинки</a>
+'<a href="path_to_pic" class="fancyLesha" rel="group">ссылка на открытие картинки</a>'
+'<a href="path_to_pic" class="fancyLesha" rel="group">ссылка на открытие картинки</a>'
 
-<a href="path_to_pic" class="fancyLesha" rel="group1">ссылка на открытие картинки</a>
-<a href="path_to_pic" class="fancyLesha" rel="group1">ссылка на открытие картинки</a>
-<a href="path_to_pic" class="fancyLesha" rel="group1">ссылка на открытие картинки</a>
+'<a href="path_to_pic" class="fancyLesha" rel="group1">ссылка на открытие картинки</a>'
+'<a href="path_to_pic" class="fancyLesha" rel="group1">ссылка на открытие картинки</a>'
+'<a href="path_to_pic" class="fancyLesha" rel="group1">ссылка на открытие картинки</a>'
